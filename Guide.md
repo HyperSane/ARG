@@ -47,4 +47,4 @@ HyperSanity is a complex and intricate AARPG, but with the right tools and a wil
 
 ---
 
-This guide should help your players understand how to interact with the various platforms in your AARPG and how they tie into the game's deeper themes. Let me know if you'd like any adjustments or additional sections!
+
