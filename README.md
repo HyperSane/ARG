@@ -1,4 +1,4 @@
-# Game-Master-License
+# Game-Master-License https://github.com/HyperSane/Game-Master-License/new/main#hypersane-aarpg-license-agreement
 Subject To Change
 HyperSane AARPG License Agreement
 1. Ownership and Rights
