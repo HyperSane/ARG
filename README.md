@@ -18,18 +18,6 @@ The license for this project is designed to be fair, ethical, and enforceable. I
 
 Please read the full license agreement carefully [below](#license-agreement).
 
-## Contributing
-
-Contributions to this repository are welcome but must adhere strictly to the guidelines set forth in the license. Unauthorized use or distribution of content from this repository may result in legal action.
-
-### How to Contribute
-
-1. **Fork the Repository**: Create your own fork of the repository.
-2. **Create a Branch**: Make a new branch for your contribution.
-3. **Make Your Changes**: Modify the files or add new ones.
-4. **Submit a Pull Request**: Once your changes are complete, submit a pull request for review.
-
-Please note that by contributing to this repository, you agree to the terms outlined in the license agreement.
 
 ## Contact
 
