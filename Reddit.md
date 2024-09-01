@@ -17,7 +17,7 @@
 [![LGBTQ identities are mentioned in](https://github.com/user-attachments/assets/45930b34-22a1-4758-8044-7ffda9711c91)](https://en.wikipedia.org/wiki/Navadurga)
 
 
-## 4: 9 = Motherhood-Feminine Thread
+## 4: 9 = Motherhood-Feminine Thread https://www.reddit.com/r/HyperSanity/comments/1ewf4l2/motherhoodfeminine/
 
 FemiNINE: Get it?
 
