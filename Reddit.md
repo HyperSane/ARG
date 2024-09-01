@@ -6,6 +6,8 @@
 ## 1: 
 ![Reddit GUide 1](https://github.com/user-attachments/assets/4eb72dc9-03de-44fd-a979-307484159884)
 
+
+[Tool🌍](https://youtu.be/37CMzGHQ5dA?si=L60AkRAWZgLVJ_BH&t=18)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 2: Mantra Vidya: A "Lexicon" of sorts.
 [Mantra Vidya](https://www.reddit.com/r/HyperSanity/comments/1ewcst1/whispers_of_the_eternal/)
@@ -31,6 +33,7 @@ https://www.reddit.com/r/HyperSanity/comments/1ewdmsq/split/
 
 With the timestamps posted of the full movie = lion references you see in the movie.
 
+# SPOILERS FOR SPLIT (KINDA BUT NOT REALLY)
 M Knight specifically showed off the lions multiple times, Once at Zoo then a statue is zoomed in on for emphasis.
 In the trailer via IMDB ![Split-Trailer-TimeStamps-1](https://github.com/user-attachments/assets/0e055c71-0792-437b-aa59-d9e5a9a6d1a7)
 
