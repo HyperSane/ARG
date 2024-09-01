@@ -1,4 +1,6 @@
-# WIKI: https://github.com/HyperSane/AARPG/wiki
+# WIKI: 
+1. https://github.com/HyperSane/AARPG/wiki 
+2. [RainDrop-Guide](https://github.com/HyperSane/AARPG/wiki/RainDrop%E2%80%90Guide/)
 
 # HyperSane AARPG License Repository https://github.com/HyperSane/Game-Master-License/blob/main/LICENSE.md
 
