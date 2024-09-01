@@ -1,3 +1,5 @@
+# WIKI: https://github.com/HyperSane/AARPG/wiki
+
 # HyperSane AARPG License Repository https://github.com/HyperSane/Game-Master-License/blob/main/LICENSE.md
 
 ## Overview
