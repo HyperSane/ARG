@@ -9,7 +9,7 @@
 ![Reddit GUide 1](https://github.com/user-attachments/assets/4eb72dc9-03de-44fd-a979-307484159884)
 
 
-[Tool🌍](https://youtu.be/37CMzGHQ5dA?si=L60AkRAWZgLVJ_BH&t=18)
+[Tool🌍](https://youtu.be/37CMzGHQ5dA?si=L60AkRAWZgLVJ_BH&t=17) ⏸️-◀️-🔎
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 2: Mantra Vidya: A "Lexicon" of sorts.
 [Mantra Vidya](https://www.reddit.com/r/HyperSanity/comments/1ewcst1/whispers_of_the_eternal/)
