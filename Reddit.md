@@ -25,12 +25,17 @@ FemiNINE: Get it?
 
 So the Lion in Feminine-Motherhood + 9 = ![9-NavaDurga-Lion](https://github.com/user-attachments/assets/8b283d12-636f-4d46-890c-f2598a7f4acd)
 
-Therefor 9 in Split = https://www.reddit.com/r/HyperSanity/comments/1ewdmsq/split/
+Therefor 9 feminine connected to Split Via 🥚  ![image](https://github.com/user-attachments/assets/1a00e639-e9c1-49e1-b211-956c9b25c5b7) = https://www.reddit.com/r/HyperSanity/comments/1ewi41f/try/
+
+https://www.reddit.com/r/HyperSanity/comments/1ewdmsq/split/
 
 With the timestamps posted of the full movie = lion references you see in the movie.
 
 M Knight specifically showed off the lions multiple times, Once at Zoo then a statue is zoomed in on for emphasis.
-In the trailer via IMDB with the timestamps I posted in conjunction with, points to him saying he loves symbolisms and how people might connect all the mythologies and theorize on what it all could mean.
+In the trailer via IMDB ![Split-Trailer-TimeStamps-1](https://github.com/user-attachments/assets/0e055c71-0792-437b-aa59-d9e5a9a6d1a7)
+
+
+with the timestamps I posted in conjunction with, points to him saying he loves symbolisms and how people might connect all the mythologies and theorize on what it all could mean.
 (He's that big-brained).
 
 Now are you starting to see the symbolisms and how they connect?
