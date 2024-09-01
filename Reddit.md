@@ -13,8 +13,28 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 3: 
+## 3: 
 [![LGBTQ identities are mentioned in](https://github.com/user-attachments/assets/45930b34-22a1-4758-8044-7ffda9711c91)](https://en.wikipedia.org/wiki/Navadurga)
 
 
-# 4: 
+## 4: 9 = Motherhood-Feminine Thread
+
+FemiNINE: Get it?
+
+9 leads to Navadurga again + Split (movie)
+
+So the Lion in Feminine-Motherhood + 9 = ![9-NavaDurga-Lion](https://github.com/user-attachments/assets/8b283d12-636f-4d46-890c-f2598a7f4acd)
+
+Therefor 9 in Split = https://www.reddit.com/r/HyperSanity/comments/1ewdmsq/split/
+
+With the timestamps posted of the full movie = lion references you see in the movie.
+
+M Knight specifically showed off the lions multiple times, Once at Zoo then a statue is zoomed in on for emphasis.
+In the trailer via IMDB with the timestamps I posted in conjunction with, points to him saying he loves symbolisms and how people might connect all the mythologies and theorize on what it all could mean.
+(He's that big-brained).
+
+Now are you starting to see the symbolisms and how they connect?
+
+Yes, I really do see connections where most see nothing.
+
+
