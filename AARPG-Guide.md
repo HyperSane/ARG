@@ -1,5 +1,8 @@
 # Game License: https://github.com/HyperSane/Game-Master-License
 
+# OFFICIAL WIKI: https://github.com/HyperSane/AARPG/wiki Pages on the right-side.
+
+# Western-Inpirations For The Game: https://github.com/HyperSane/AARPG/wiki/Hyper%E2%80%90Sane-Inspirations
 ---
 
 # AARPG Player Guide
