@@ -1,3 +1,5 @@
+### [Game-Updates](https://github.com/HyperSane/AARPG/blob/main/Game-Updates.md)
+
 # WIKI: 
 1. https://github.com/HyperSane/AARPG/wiki 
 2. [RainDrop-Guide](https://github.com/HyperSane/AARPG/wiki/RainDrop%E2%80%90Guide/)
