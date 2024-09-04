@@ -3,7 +3,8 @@
 ---
 
 # Cheaters References
-
+See for an extreme break-down: https://github.com/HyperSane/AARPG/wiki/FemiNINE
+##
 This section is an **entry point** to the complex, interconnected symbolism in **HyperSanity**. The references here aren't just hints for gameplay but gateways to **philosophical explorations** that extend beyond the game's world into real-life connections in mythology, pop culture, and personal growth.
 
 ---
