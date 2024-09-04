@@ -80,6 +80,7 @@ Welcome to the AARPG Game Updates repository! This repository is your hub for tr
 ### Recent Updates
 - **[Date]**: Description of the update or addition.
 - **[Date]**: Description of the update or addition.
+- **[Sep-4-2024]**: Posted a DeadLock+Color Lexicon As KeyMaster. https://www.reddit.com/r/HyperSanity/comments/1f8yq18/wipdeadlock/
 
 ### TODOs
 - [ ] Task 1: Description of the task with expected completion date.
@@ -171,6 +172,34 @@ Welcome to the AARPG Game Updates repository! This repository is your hub for tr
 ### Collaboration and Contributions
 - **Open Collaboration**: Opportunities for player or developer contributions.
 - **Acknowledgments**: Recognition of contributors or inspiration.
+
+---
+## Youtube
+
+### Recent Updates
+- **[Date]**: Description of the update or addition.
+- **[Sep-3-2024**: Updated Channels Front-end https://youtube.com/@hypersanedemon + Added re-worked hyper-sane Music, will eventually have a progressive gain in challenging the players mindstates.
+
+### TODOs
+- [ ] Task 1: Description of the task with expected completion date.
+- [ ] Task 2: Description of the task with expected completion date.
+
+### Upcoming Features
+- **Feature 1**: Detailed description, purpose, and expected launch date.
+- **Feature 2**: Detailed description, purpose, and expected launch date.
+
+### Known Issues
+- **Issue 1**: Detailed description, impact, and potential workaround.
+- **Issue 2**: Detailed description, impact, and potential workaround.
+
+### Changelog
+- **[Date]**: List of changes made, with links to related commits or issues.
+  - **Change 1**: Description of the change.
+  - **Change 2**: Description of the change.
+
+### Feedback
+- **Feedback 1**: Summary of player feedback and any associated actions taken.
+- **Feedback 2**: Summary of player feedback and any associated actions taken.
 
 ---
 
