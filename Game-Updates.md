@@ -50,7 +50,7 @@ Welcome to the AARPG Game Updates repository! This repository is your hub for tr
 
 ### Recent Updates
 - **[Date]**: Description of the update or addition.
-- **[Date]**: Description of the update or addition.
+- **[Sep-4-2024]**: Re-worked the Main Wikipage/Repo README: https://github.com/HyperSane/AARPG/wiki
 
 ### TODOs
 - [ ] Task 1: Description of the task with expected completion date.
@@ -81,6 +81,7 @@ Welcome to the AARPG Game Updates repository! This repository is your hub for tr
 - **[Date]**: Description of the update or addition.
 - **[Date]**: Description of the update or addition.
 - **[Sep-4-2024]**: Posted a DeadLock+Color Lexicon As KeyMaster. https://www.reddit.com/r/HyperSanity/comments/1f8yq18/wipdeadlock/
+- **[Sep-4-2024]**: Added a Creep-Guide: https://www.reddit.com/r/HyperSanity/comments/1f8yq18/comment/llipqe9/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
 
 ### TODOs
 - [ ] Task 1: Description of the task with expected completion date.
@@ -109,7 +110,7 @@ Welcome to the AARPG Game Updates repository! This repository is your hub for tr
 
 ### Recent Updates
 - **[Date]**: Description of the update or addition.
-- **[Date]**: Description of the update or addition.
+- **[Sep-4-2024]**: Added DeadLock/Guides https://raindrop.io/HyperSane/dead-lock-47489985
 
 ### TODOs
 - [ ] Task 1: Description of the task with expected completion date.
