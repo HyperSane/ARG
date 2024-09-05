@@ -82,6 +82,9 @@ Welcome to the AARPG Game Updates repository! This repository is your hub for tr
 - **[Date]**: Description of the update or addition.
 - **[Sep-4-2024]**: Posted a DeadLock+Color Lexicon As KeyMaster. https://www.reddit.com/r/HyperSanity/comments/1f8yq18/wipdeadlock/
 - **[Sep-4-2024]**: Added a Creep-Guide: https://www.reddit.com/r/HyperSanity/comments/1f8yq18/comment/llipqe9/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
+- **[Sep-5-2024]**: Updated the [Riddle-Thread](https://www.reddit.com/r/HyperSanity/comments/1ev2guz/comment/llovjdz/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+I Implemented western references for you to cross-compare/examine to better understand the underlying "Theme" of the riddle, so if you've already found the riddle - then this symbolism adds a little more light on the
+subliminal messaging. [Click-This-To-Go-Back-To-Riddle](https://www.reddit.com/r/HyperSanity/comments/1ev2guz/_/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 
 ### TODOs
 - [ ] Task 1: Description of the task with expected completion date.
