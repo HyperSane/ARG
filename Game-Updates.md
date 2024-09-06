@@ -85,13 +85,15 @@ Welcome to the AARPG Game Updates repository! This repository is your hub for tr
 - **[Sep-5-2024]**: Updated the [Riddle-Thread](https://www.reddit.com/r/HyperSanity/comments/1ev2guz/comment/llovjdz/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 I Implemented western references for you to cross-compare/examine to better understand the underlying "Theme" of the riddle, so if you've already found the riddle - then this symbolism adds a little more light on the
 subliminal messaging. [Click-This-To-Go-Back-To-Riddle](https://www.reddit.com/r/HyperSanity/comments/1ev2guz/_/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+- **[Sep-5-2024]**: Added [🍎🗝️⏳](https://www.reddit.com/r/HyperSanity/comments/1fa4ces/_/)
 
 ### TODOs
 - [ ] Task 1: Description of the task with expected completion date.
 - [ ] Task 2: Description of the task with expected completion date.
 
 ### Upcoming Features
-- **Feature 1**: Detailed description, purpose, and expected launch date.
+- **Feature 1**: **[Sep-5-2024]** Player Artifact(s?), not going to spoil it. Let's just say it takes a MASSIVE step up in difficulty and intrigue, you will need to use all of your imagination and savvyness.
+Might take some time to setup hints after I make introduction, as I'm doing this as I go (and yet it still connects).
 - **Feature 2**: Detailed description, purpose, and expected launch date.
 
 ### Known Issues
