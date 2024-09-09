@@ -86,10 +86,11 @@ Welcome to the **AARPG Game Updates repository**! This repository is your hub fo
 - **[Sep-5-2024]**: Updated [Riddle Thread](https://www.reddit.com/r/HyperSanity/comments/1ev2guz/_/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) with | TODO: new symbol hints and OMNIS references.
 - **[Sep-4-2024]**: Posted a **DeadLock+Color Lexicon** as KeyMaster. [DeadLock Post](https://www.reddit.com/r/HyperSanity/comments/1f8yq18/)
 - **[Sep-4-2024]**: Added a **Creep-Guide** with linked explanations. [Creep Guide](https://www.reddit.com/r/HyperSanity/comments/1f8yq18/comment/llipqe9/)
+- **[Sep-8-2024]**: [Added more obvious hints on how to find the second riddle, which starts the AARPG's first story-arc.](https://www.reddit.com/r/HyperSanity/comments/1fc8ovo/the_journey_begins_riddle_2_unveiled_your_first/)
 
 ### TODOs
 
-- [ ] Update Reddit with **new riddle additions** tied to the OMNIS lore, expected by **Sep-8-2024**.
+- [/] Update Reddit with **new riddle additions** tied to the OMNIS lore, expected by **Sep-8-2024**.
 - [ ] Finalize next **artifact thread** on Reddit, linked to hidden lore and player progression.
 
 ### Upcoming Features
@@ -174,6 +175,7 @@ Welcome to the **AARPG Game Updates repository**! This repository is your hub fo
 - [RainDrop.io](https://raindrop.io/HyperSane/game-start-folders-below-47328679)
 - [Steam Community](https://steamcommunity.com/groups/Hyper-Sanity/discussions)
 - [🍎](https://www.reddit.com/r/HyperSanity/comments/1fa4ces/_/)
+- [Added Clear Instructions to begin the real AARPG](https://www.reddit.com/r/HyperSanity/comments/1fc8ovo/the_journey_begins_riddle_2_unveiled_your_first/)
 ---
 
 ## How to Use This Repository
