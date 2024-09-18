@@ -1,6 +1,8 @@
 # [Game-Updates](https://github.com/HyperSane/AARPG/blob/main/Game-Updates.md)
 
 # Games Back-End Domain Updates: https://github.com/HyperSane/AARPG/blob/main/Game-Back-End.md
+
+# Track Reddit Posts and 1:1 Archives in PDF format with OCR/Annotations https://github.com/HyperSane/AARPG/wiki/Reddit-Archives
 ---
 
 # Welcome to the AARPG Repository
