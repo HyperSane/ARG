@@ -37,6 +37,7 @@ Welcome to the **AARPG Game Updates repository**! This repository tracks all gam
 
 - **[Sep-5-2024]**: Re-worked **Player Equipment Page**, added tracking for backend updates without spoilers. [View File](https://github.com/HyperSane/AARPG/blob/main/Game-Back-End.md)
 - **[Sep-5-2024]**: Implemented new **artifact logic** for the Apple of Knowledge, connected it to the lore of the OMNIS and introduced fragmented artifact clues.
+- **[Sep-23-2024]** Multiple. [Here](### Recent-Updates - **[Sep-23-2024]**)
 
 #### TODOs
 
