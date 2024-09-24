@@ -102,8 +102,8 @@ Welcome to the **AARPG Game Updates repository**! This repository tracks all gam
 - **[Sep-8-2024]**: Added clearer hints to find Riddle 2.
 <a name="reddit-sep-23-2024"></a>
 <a name="reddit-sep-23-2024"></a>
-- **[Sep-23-2024]** Added New [RedWikki](https://www.reddit.com/r/HyperSanity/about/wiki/arrpg) 
-  Added DailyPosts (Still WIP) to summarize new updates daily.
+- **[Sep-23-2024]** Added New [RedWikki](https://www.reddit.com/r/HyperSanity/wiki/arrpg/) 
+  Added DailyThreads (Still WIP) to summarize new updates daily.
 
 
 
