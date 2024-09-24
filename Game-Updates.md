@@ -37,7 +37,9 @@ Welcome to the **AARPG Game Updates repository**! This repository tracks all gam
 
 - **[Sep-5-2024]**: Re-worked **Player Equipment Page**, added tracking for backend updates without spoilers. [View File](https://github.com/HyperSane/AARPG/blob/main/Game-Back-End.md)
 - **[Sep-5-2024]**: Implemented new **artifact logic** for the Apple of Knowledge, connected it to the lore of the OMNIS and introduced fragmented artifact clues.
-- **[Sep-23-2024]** Multiple. [Here](### Recent-Updates - **[Sep-23-2024]**)
+- <a name="sep-23-update"></a>
+**[Sep-23-2024]** Multiple. [Here](https://github.com/HyperSane/AARPG/blob/main/Game-Back-End.md#sep-23-update)
+
 
 #### TODOs
 
@@ -98,8 +100,10 @@ Welcome to the **AARPG Game Updates repository**! This repository tracks all gam
 - **[Sep-5-2024]**: Updated [Riddle Thread](https://www.reddit.com/r/HyperSanity/comments/1ev2guz/_/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) with | TODO: new symbol hints and OMNIS references.
 - **[Sep-4-2024]**: Posted a **DeadLock+Color Lexicon** as KeyMaster. [DeadLock Post](https://www.reddit.com/r/HyperSanity/comments/1f8yq18/)
 - **[Sep-8-2024]**: Added clearer hints to find Riddle 2.
+<a name="reddit-sep-23-2024"></a>
 - **[Sep-23-2024]** Added New [RedWikki](https://www.reddit.com/r/HyperSanity/about/wiki/arrpg) 
   Added DailyPosts (Still WIP) to summarize new updates daily.
+
 
 #### TODOs
 
