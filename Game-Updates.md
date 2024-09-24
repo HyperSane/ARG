@@ -12,9 +12,11 @@ Welcome to the **AARPG Game Updates repository**! This repository tracks all gam
 
 1. [September 2024 Updates](#september-2024)
    - [Games-Back-End Domain](#games-back-end-domain-september)
+   - [Github](#github-September)
    - [Reddit](#reddit-september)
    - [RainDrop](#raindrop-september)
    - [LinkTree](#linktree-september)
+   - [Youtube](#youtube-september)
    - [Changelog](#changelog-september)
    - [Feedback](#feedback-september)
 2. [August 2024 Updates](#august-2024)
@@ -62,6 +64,32 @@ Welcome to the **AARPG Game Updates repository**! This repository tracks all gam
 
 ---
 
+### Github (September)
+
+#### Recent Updates
+
+
+
+#### TODOs
+
+
+
+#### Upcoming Features
+
+
+
+#### Changelog
+
+
+
+#### Feedback
+
+
+
+
+
+
+---
 ### Reddit (September)
 
 #### Recent Updates
@@ -69,6 +97,8 @@ Welcome to the **AARPG Game Updates repository**! This repository tracks all gam
 - **[Sep-5-2024]**: Updated [Riddle Thread](https://www.reddit.com/r/HyperSanity/comments/1ev2guz/_/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) with | TODO: new symbol hints and OMNIS references.
 - **[Sep-4-2024]**: Posted a **DeadLock+Color Lexicon** as KeyMaster. [DeadLock Post](https://www.reddit.com/r/HyperSanity/comments/1f8yq18/)
 - **[Sep-8-2024]**: Added clearer hints to find Riddle 2.
+- **[Sep-23-2024]** Added New [RedWikki](https://www.reddit.com/r/HyperSanity/about/wiki/arrpg) 
+  Added DailyPosts (Still WIP) to summarize new updates daily.
 
 #### TODOs
 
@@ -98,7 +128,7 @@ Welcome to the **AARPG Game Updates repository**! This repository tracks all gam
 
 #### TODOs
 
-- [ ] Implement **artifact tracking system** via RainDrop, expected completion: **Sep-2024**.
+- [ ] Implement **artifact tracking system** via RainDrop, expected completion: ⏳
 
 #### Upcoming Features
 
@@ -106,7 +136,30 @@ Welcome to the **AARPG Game Updates repository**! This repository tracks all gam
 
 #### Known Issues
 
-- **Raindrop Sync Issue**: Problems syncing between mobile and desktop.
+
+
+---
+
+### Youtube (September)
+
+#### Recent Updates
+
+
+
+#### TODOs
+1. Reddit Tutorial(s?)
+
+
+#### Upcoming Features
+
+
+
+#### Changelog
+
+
+
+#### Feedback
+
 
 ---
 
@@ -118,12 +171,12 @@ Welcome to the **AARPG Game Updates repository**! This repository tracks all gam
 
 #### TODOs
 
-- [ ] Add **new lore pages** to LinkTree, expected completion: **Sep-2024**.
+- [ ] Add **new lore pages** to LinkTree, expected completion: After Riddle 2 Solved
 - [ ] Add **artifact resources** to LinkTree.
 
 #### Upcoming Features
 
-- **New Artifact Pages**: Feature lore and historical insights related to in-game artifacts, expected launch **Sep-2024**.
+- **New Artifact Pages**: Feature lore and historical insights related to in-game artifacts, expected launch: After Riddle 2 Solved.
 
 ---
 
