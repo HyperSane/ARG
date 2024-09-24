@@ -1,3 +1,7 @@
+# Contact: HyperSaneARRPG@protonmail.com
+#### https://github.com/HyperSane/ARRPG/discussions
+
+---
 # [Game-Updates](https://github.com/HyperSane/AARPG/blob/main/Game-Updates.md)
 
 # Games Back-End Domain Updates: https://github.com/HyperSane/AARPG/blob/main/Game-Back-End.md
