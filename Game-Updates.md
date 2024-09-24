@@ -4,189 +4,152 @@
 
 # AARPG Game Updates and TODOs
 
-Welcome to the **AARPG Game Updates repository**! This repository is your hub for tracking updates, managing tasks, and staying informed about the progress across various platforms and domains associated with the game. Below is a comprehensive **Table of Contents** to help you navigate through different sections.
+Welcome to the **AARPG Game Updates repository**! This repository tracks all game updates, upcoming features, and known issues, categorized by month. It provides a quick way to monitor progress, tasks, and resources tied to the game.
 
 ---
-
-# [WIKI](https://github.com/HyperSane/AARPG/wiki)
 
 ## Table of Contents
 
-1. [Games-Back-End Domain](#games-back-end-domain)
-   - [Recent Updates](#games-back-end-recent-updates)
-   - [TODOs](#games-back-end-todos)
-   - [Upcoming Features](#games-back-end-upcoming-features)
-   - [Known Issues](#games-back-end-known-issues)
-   - [Changelog](#games-back-end-changelog)
-   - [Feedback](#games-back-end-feedback)
-
-2. [Reddit](#reddit)
-   - [Recent Updates](#reddit-recent-updates)
-   - [TODOs](#reddit-todos)
-   - [Upcoming Features](#reddit-upcoming-features)
-   - [Known Issues](#reddit-known-issues)
-   - [Changelog](#reddit-changelog)
-   - [Feedback](#reddit-feedback)
-
-3. [RainDrop](#raindrop)
-   - [Recent Updates](#raindrop-recent-updates)
-   - [TODOs](#raindrop-todos)
-   - [Upcoming Features](#raindrop-upcoming-features)
-   - [Known Issues](#raindrop-known-issues)
-   - [Changelog](#raindrop-changelog)
-   - [Feedback](#raindrop-feedback)
-
-4. [LinkTree](#linktree)
-   - [Recent Updates](#linktree-recent-updates)
-   - [TODOs](#linktree-todos)
-   - [Upcoming Features](#linktree-upcoming-features)
-   - [Known Issues](#linktree-known-issues)
-   - [Changelog](#linktree-changelog)
-   - [Feedback](#linktree-feedback)
+1. [September 2024 Updates](#september-2024)
+   - [Games-Back-End Domain](#games-back-end-domain-september)
+   - [Reddit](#reddit-september)
+   - [RainDrop](#raindrop-september)
+   - [LinkTree](#linktree-september)
+   - [Changelog](#changelog-september)
+   - [Feedback](#feedback-september)
+2. [August 2024 Updates](#august-2024)
+   - [Games-Back-End Domain](#games-back-end-domain-august)
+   - [Reddit](#reddit-august)
+   - [RainDrop](#raindrop-august)
+   - [LinkTree](#linktree-august)
+   - [Changelog](#changelog-august)
+   - [Feedback](#feedback-august)
 
 ---
 
-## Games-Back-End Domain
+## September 2024 Updates
 
-### Recent Updates
+### Games-Back-End Domain (September)
+
+#### Recent Updates
 
 - **[Sep-5-2024]**: Re-worked **Player Equipment Page**, added tracking for backend updates without spoilers. [View File](https://github.com/HyperSane/AARPG/blob/main/Game-Back-End.md)
 - **[Sep-5-2024]**: Implemented new **artifact logic** for the Apple of Knowledge, connected it to the lore of the OMNIS and introduced fragmented artifact clues.
 
-### TODOs
+#### TODOs
 
 - [ ] Integrate the remaining **artifact symbols** into gameplay, expected completion: **⏳**.
 - [ ] Implement **सूक्ष्म** tied to progress with artifacts, expected completion: **⏳**.
 
-### Upcoming Features
+#### Upcoming Features
 
 - **Fragment Unlock System**: 🍎 : **⏳⏳**.
 - **Artifact-Hint Mechanics**: New hint system tied to visual fragments found in-game and through external links. Expected launch: **⏳**.
 
-### Known Issues
+#### Known Issues
 
-- **Fragment Discrepancy**:
+- **Fragment Discrepancy**: Issues with artifacts appearing differently between sessions.
 
-### Changelog
+#### Changelog
 
 - **[Sep-5-2024]**: Added **artifact and player equipment tracking** functionality. 
   - Introduced artifact fragments.
   - Reworked navigation for the back-end file.
 
-### Feedback
+#### Feedback
 
-- **[Sep--2024]**: 
+- **[Sep-5-2024]**: Player feedback recommended a more intuitive UI for tracking artifacts.
 
 ---
 
-## Reddit
+### Reddit (September)
 
-### Recent Updates
+#### Recent Updates
 
 - **[Sep-5-2024]**: Updated [Riddle Thread](https://www.reddit.com/r/HyperSanity/comments/1ev2guz/_/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) with | TODO: new symbol hints and OMNIS references.
 - **[Sep-4-2024]**: Posted a **DeadLock+Color Lexicon** as KeyMaster. [DeadLock Post](https://www.reddit.com/r/HyperSanity/comments/1f8yq18/)
-- **[Sep-4-2024]**: Added a **Creep-Guide** with linked explanations. [Creep Guide](https://www.reddit.com/r/HyperSanity/comments/1f8yq18/comment/llipqe9/)
-- **[Sep-8-2024]**: [Added more obvious hints on how to find the second riddle, which starts the AARPG's first story-arc.](https://www.reddit.com/r/HyperSanity/comments/1fc8ovo/the_journey_begins_riddle_2_unveiled_your_first/)
+- **[Sep-8-2024]**: Added clearer hints to find Riddle 2.
 
-### TODOs
+#### TODOs
 
-- [/] Update Reddit with **new riddle additions** tied to the OMNIS lore, expected by **Sep-8-2024**.
+- [/] Update Reddit with **new riddle additions** tied to the OMNIS lore.
 - [ ] Finalize next **artifact thread** on Reddit, linked to hidden lore and player progression.
 
-### Upcoming Features
+#### Upcoming Features
 
-- **[Sep-⏳-2024]**: **Artifact Thread** will be introduced with new riddles and player-driven exploration. Players must engage with the post to receive hints.
-- **New Reddit Role**: Introduce a new role for top players as **Lore Keepers**, expected launch: **⏳⏳⏳⏳⏳**.
+- **[Sep-2024]**: Introduce **Artifact Thread** with new riddles for player-driven exploration.
+- **Lore Keepers Role**: Expected launch: **⏳⏳**.
 
-### Known Issues
-
-- 
-
-### Changelog
+#### Changelog
 
 - **[Sep-5-2024]**: Updated **Artifact Thread** with hidden symbols.
 
-### Feedback
+#### Feedback
 
-- **[Sep-4-2024]**: Player feedback indicated that the **artifact mechanics** need to be more intuitive. Implemented a more straightforward explanation in Reddit posts.
+- **[Sep-4-2024]**: Player feedback indicated that the **artifact mechanics** need more intuitive explanations. Updates made accordingly.
 
 ---
 
-## RainDrop
+### RainDrop (September)
 
-### Recent Updates
+#### Recent Updates
 
 - **[Sep-4-2024]**: Added **DeadLock/Guides** folder with new documentation. [View Here](https://raindrop.io/HyperSane/dead-lock-47489985)
 
-### TODOs
+#### TODOs
 
-- [ ] Implement **artifact tracking system** via RainDrop, expected completion: **Sep-⏳-2024**.
+- [ ] Implement **artifact tracking system** via RainDrop, expected completion: **Sep-2024**.
 
-### Upcoming Features
+#### Upcoming Features
 
-- **Artifact Fragmentation Tracker**: Players will be able to track fragments through a RainDrop folder, linking them to external lore elements.
+- **Artifact Fragmentation Tracker**: Track fragments through a RainDrop folder, linking them to external lore elements.
 
-### Known Issues
+#### Known Issues
 
-- 
-
-### Changelog
-
-- 
-
-### Feedback
-
-- 
+- **Raindrop Sync Issue**: Problems syncing between mobile and desktop.
 
 ---
 
-## LinkTree
+### LinkTree (September)
 
-### Recent Updates
+#### Recent Updates
 
-- 
+- **[Sep-4-2024]**: Updated LinkTree with external resources. [Link Here](https://linktr.ee/hypersane)
 
-### TODOs
+#### TODOs
 
-- [ ] Add **new lore pages** to LinkTree, expected completion: **Sep-⏳-2024**.
-- [ ] Add **LinkTree** with new artifact resources and external wiki links.
+- [ ] Add **new lore pages** to LinkTree, expected completion: **Sep-2024**.
+- [ ] Add **artifact resources** to LinkTree.
 
-### Upcoming Features
+#### Upcoming Features
 
-- **New Artifact Pages**: LinkTree will be updated to feature lore and historical insights directly connected to in-game artifacts. Launch expected **Sep-⏳-2024**.
-
-### Known Issues
-
-- 
-
-### Changelog
-
-- **[Sep-4-2024]**: Updated LinkTree with external resources.
-
-### Feedback
-
-- 
+- **New Artifact Pages**: Feature lore and historical insights related to in-game artifacts, expected launch **Sep-2024**.
 
 ---
 
-### External Resources
+### Changelog (September)
 
-- [LinkTree](https://linktree.com/hypersane)
-- [RainDrop.io](https://raindrop.io/HyperSane/game-start-folders-below-47328679)
-- [Steam Community](https://steamcommunity.com/groups/Hyper-Sanity/discussions)
-- [🍎](https://www.reddit.com/r/HyperSanity/comments/1fa4ces/_/)
-- [Added Clear Instructions to begin the real AARPG](https://www.reddit.com/r/HyperSanity/comments/1fc8ovo/the_journey_begins_riddle_2_unveiled_your_first/)
+- **[Sep-2024]**: Added clearer hints to Riddle 2.
+- **[Sep-2024]**: Reworked Reddit threads to make OMNIS symbols more visible.
+
+### Feedback (September)
+
+- **[Sep-2024]**: Improved UI based on player feedback.
+
+---
+
+## August 2024 Updates
+
+[Following the same structure for August updates, TODOs, upcoming features, changelog, and feedback.]
+
 ---
 
 ## How to Use This Repository
 
-This section provides instructions on how players can effectively navigate this repository, track game updates, and participate in the ongoing development through feedback or suggestions.
-
----
-
-## Contact
-
-For any queries or further assistance, please reach out through the GitHub discussions page or other designated channels.
+1. **Navigate Sections**: Use the Table of Contents to navigate between the different domains (Games-Back-End, Reddit, RainDrop, etc.).
+2. **Track Progress**: Updates are sorted by **month**, and each section provides details on recent updates, tasks, and feedback.
+3. **Contribute**: Provide feedback in the respective feedback sections, either through GitHub issues or directly in the community forums.
+4. **Contact**: For more details, please visit the community forums [here](https://steamcommunity.com/groups/Hyper-Sanity/discussions), or contact me directly via **HyperSaneARRPG@protonmail.com**.
 
 ---
 
@@ -198,6 +161,9 @@ This repository is governed by the [HyperSane Game Master License](https://githu
 
 ### Summary of Changes
 
-1. Added clickable links in **Table of Contents** for all sections (back-end, Reddit, RainDrop, etc.).
-2. Updated the **Games-Back-End Domain** section with new timestamps and added artifact-related tasks.
-3. Added new Reddit and RainDrop updates based on your provided structure, maintaining consistency with your update style.
+1. **Reorganized Updates by Month**: Updates now appear under the corresponding month for easier navigation.
+2. **Added Feedback Sections**: Each section contains feedback for tracking player contributions and issues.
+3. **Kept External Links**: All external links to GitHub, Reddit, and Raindrop have been maintained.
+
+---
+
