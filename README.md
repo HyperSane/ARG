@@ -1,4 +1,7 @@
 # Contact: HyperSaneARRPG@protonmail.com
+
+# [Game-Documentation(GitBook)](https://hypersanity.gitbook.io/hypersanity/)
+
 #### https://github.com/HyperSane/ARRPG/discussions
 
 ---
@@ -11,7 +14,7 @@
 
 # Welcome to the AARPG Repository
 
-Welcome to the **AARPG** (Advanced Augmented Role-Playing Game), a unique game blending **philosophy**, **puzzle-solving**, and **immersive storytelling** with a constantly evolving narrative. This repository will serve as the central hub for **guides**, **updates**, and **philosophical insights** related to the game.
+Welcome to the **ARG** (Advanced Augmented Role-Playing Game), a unique game blending **philosophy**, **puzzle-solving**, and **immersive storytelling** with a constantly evolving narrative. This repository will serve as the central hub for **guides**, **updates**, and **philosophical insights** related to the game.
 
 # Table of Contents
 1. [LICENSE](#license)
@@ -90,7 +93,7 @@ Explore the **Color Lexicon** in-depth and learn how it influences gameplay and 
 
 ## Community & Connections
 
-AARPG isn't just a game—it’s a **community of like-minded thinkers**, philosophers, and strategists. Connect with other players, share insights, and discuss game progression:
+ARG isn't just a game—it’s a **community of like-minded thinkers**, philosophers, and strategists. Connect with other players, share insights, and discuss game progression:
 
 - **[Join the GitHub Discussions](https://github.com/HyperSane/AARPG/discussions)**: Engage with other players in GitHub discussions. Share theories, ask questions, or discuss game strategies.
   
