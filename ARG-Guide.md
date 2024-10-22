@@ -1,3 +1,5 @@
+# [Game-Documentation(GitBook)](https://hypersanity.gitbook.io/hypersanity/)
+
 # Game License: https://github.com/HyperSane/Game-Master-License
 
 # OFFICIAL WIKI: https://github.com/HyperSane/AARPG/wiki Pages on the right-side.
@@ -5,9 +7,9 @@
 # Western-Inpirations For The Game: https://github.com/HyperSane/ARRPG/wiki/Hyper%E2%80%90Sane-Inspirations
 ---
 
-# AARPG Player Guide
+# ARG Player Guide
 
-Welcome to the AARPG! This guide will help you understand how to engage with the game, explore the knowledge provided, and participate in the community while adhering to the structure and rules of the game. AARPG is an intricate blend of learning, exploration, and interaction that leverages modern tools like Raindrop, GitHub, and Reddit.
+Welcome to the ARG! This guide will help you understand how to engage with the game, explore the knowledge provided, and participate in the community while adhering to the structure and rules of the game. AARPG is an intricate blend of learning, exploration, and interaction that leverages modern tools like Raindrop, GitHub, and Reddit.
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -25,7 +27,7 @@ Welcome to the AARPG! This guide will help you understand how to engage with the
 
 ## Introduction
 
-AARPG is not just a game; it's a journey of discovery, knowledge, and understanding. This guide will help you navigate through the resources provided and fully immerse yourself in the experience. Every action you take and every piece of content you explore will bring you closer to unlocking the secrets of this game.
+ARG is not just a game; it's a journey of discovery, knowledge, and understanding. This guide will help you navigate through the resources provided and fully immerse yourself in the experience. Every action you take and every piece of content you explore will bring you closer to unlocking the secrets of this game.
 
 ## Using Raindrop
 
@@ -66,7 +68,7 @@ For all other communication, GitHub Discussions is the platform to use. This ens
 
 ## Navigating the AARPG
 
-The AARPG is structured in layers, with each layer revealing more of the game’s intricate world. Your progression depends on your ability to explore, connect dots, and interact with the community.
+The ARG is structured in layers, with each layer revealing more of the game’s intricate world. Your progression depends on your ability to explore, connect dots, and interact with the community.
 
 ### Progression Tips
 - **Follow the Clues**: Each clue you uncover leads to the next piece of the puzzle. Stay vigilant and explore every possibility.
@@ -75,7 +77,7 @@ The AARPG is structured in layers, with each layer revealing more of the game’
 
 ## Understanding the Story
 
-The AARPG is heavily inspired by Vedic philosophy, including concepts like Samsara (the cycle of life) and Moksha (liberation). The story is woven into the gameplay, with every element of the game reflecting these profound ideas.
+The ARG is heavily inspired by Vedic philosophy, including concepts like Samsara (the cycle of life) and Moksha (liberation). The story is woven into the gameplay, with every element of the game reflecting these profound ideas.
 
 ### Story Elements
 - **Vedic Themes**: The game draws heavily from Vedic texts and philosophies. Understanding these themes can offer deeper insights into the game’s structure and progression.
@@ -83,11 +85,12 @@ The AARPG is heavily inspired by Vedic philosophy, including concepts like Samsa
 
 ## FAQs
 
-**Q1: How do I start playing the AARPG?**
+**Q1: How do I start playing the ARG?**
 - Begin by exploring the resources provided on Reddit, Raindrop and GitHub. Follow the clues, and participate in GitHub Discussions to advance.
 
 **Q2: What if I get stuck?**
-- If you’re stuck, revisit previous clues and cross-reference them with new information. [🔁](https://www.reddit.com/r/HyperSanity/comments/1etbvra/what_is_vedic_wip/)
+- If you’re stuck, revisit previous clues and cross-reference them with new information. Or use reddits chats in the subred.
+[🔁](https://www.reddit.com/r/HyperSanity/comments/1etbvra/what_is_vedic_wip/)
 
 **Q3: Can I share my findings outside the game?**
 - The game encourages sharing within the community but Always adhere to the game’s license.
