@@ -2,14 +2,14 @@
 
 # Game License: https://github.com/HyperSane/Game-Master-License
 
-# OFFICIAL WIKI: https://github.com/HyperSane/AARPG/wiki Pages on the right-side.
+# OFFICIAL WIKI: https://github.com/HyperSane/ARG/wiki Pages on the right-side.
 
 # Western-Inpirations For The Game: https://github.com/HyperSane/ARG/wiki/Hyper%E2%80%90Sane-Inspirations
 ---
 
 # ARG Player Guide
 
-Welcome to the ARG! This guide will help you understand how to engage with the game, explore the knowledge provided, and participate in the community while adhering to the structure and rules of the game. AARPG is an intricate blend of learning, exploration, and interaction that leverages modern tools like Raindrop, GitHub, and Reddit.
+Welcome to the ARG! This guide will help you understand how to engage with the game, explore the knowledge provided, and participate in the community while adhering to the structure and rules of the game. ARG is an intricate blend of learning, exploration, and interaction that leverages modern tools like Raindrop, GitHub, and Reddit.
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -17,7 +17,7 @@ Welcome to the ARG! This guide will help you understand how to engage with the g
 3. [Exploring the GitHub Repository](#exploring-the-github-repository)
 4. [Posting Riddle Answers on Reddit](#posting-riddle-answers-on-reddit)
 5. [Communicating on GitHub Discussions](#communicating-on-github-discussions)
-6. [Navigating the AARPG](#navigating-the-aarpg)
+6. [Navigating the ARG](#navigating-the-ARG)
 7. [Understanding the Story](#understanding-the-story)
 8. [FAQs](#faqs)
 
@@ -36,11 +36,11 @@ Raindrop is a powerful tool that organizes knowledge in a structured way. Think 
 ### Getting Started with Raindrop
 - **Accessing Raindrop**: You can access the Raindrop collection via the link provided in the game’s instructions. It’s essential to explore each folder and bookmark carefully, as they are intricately linked to the game’s narrative.
 - **Exploring Bookmarks**: Each bookmark contains vital information, links to GitHub discussions, and sometimes, hidden clues. Be thorough in your exploration.
-- **Using Tags and Filters**: Use tags and filters within Raindrop to navigate through the content. Tags like `#Hints`, `#Ethics`, or `#AARPG` are particularly useful.
+- **Using Tags and Filters**: Use tags and filters within Raindrop to navigate through the content. Tags like `#Hints`, `#Ethics`, or `#ARG` are particularly useful.
 
 ## Exploring the GitHub Repository
 
-The GitHub repository is where the core of the AARPG is stored. It’s more than just a collection of files—it’s the framework of the game.
+The GitHub repository is where the core of the ARG is stored. It’s more than just a collection of files—it’s the framework of the game.
 
 ### Navigating the Repository
 - **README and LICENSE**: Start with the README file to understand the general overview of the repository. The LICENSE file contains the terms under which the game operates.
@@ -60,13 +60,13 @@ Reddit serves as the platform where you can post your answers to the riddles. Th
 For all other communication, GitHub Discussions is the platform to use. This ensures a more controlled environment where the Game Master can monitor discussions and maintain the game's integrity.
 
 ### How to Engage in GitHub Discussions
-- **Accessing Discussions**: Navigate to the [AARPG Discussions section on GitHub](https://github.com/HyperSane/AARPG/discussions).
+- **Accessing Discussions**: Navigate to the [ARG Discussions section on GitHub](https://github.com/HyperSane/ARG/discussions).
 - **Participating**: Here, you can discuss hints, ask for help, and share your thoughts on the game. All communication should be relevant to the game and adhere to the rules set by the Game Master.
 - **Respecting the Structure**: Remember, the Game Master is the primary voice.
 -
 - # Your contributions should be aimed at seeking guidance or clarification rather than driving the narrative.
 
-## Navigating the AARPG
+## Navigating the ARG
 
 The ARG is structured in layers, with each layer revealing more of the game’s intricate world. Your progression depends on your ability to explore, connect dots, and interact with the community.
 
