@@ -5,9 +5,9 @@
 #### https://github.com/HyperSane/ARG/discussions
 
 ---
-# [Game-Updates](https://github.com/HyperSane/ARG/blob/main/Game-Updates.md)
+# [Game-Updates](https://github.com/HyperSane/ARG/blob/Main1/Game-Updates.md)
 
-# Games Back-End Domain Updates: https://github.com/HyperSane/ARG/blob/main/Game-Back-End.md
+# Games Back-End DoMain1 Updates: https://github.com/HyperSane/ARG/blob/Main1/Game-Back-End.md
 
 # Track Reddit Posts and 1:1 Archives in PDF format with OCR/Annotations https://github.com/HyperSane/ARG/wiki/Reddit-Archives
 ---
@@ -31,7 +31,7 @@ Welcome to the **ARG** (Advanced Augmented Role-Playing Game), a unique game ble
 ## LICENSE
 
 This game is licensed under the **Game Master License**, which covers all contributions, puzzles, and content related to AARPG. The license can be found here:  
-[**View the License**](https://github.com/HyperSane/Game-Master-License/blob/main/LICENSE.md)
+[**View the License**](https://github.com/HyperSane/Game-Master-License/blob/Main1/LICENSE.md)
 
 ---
 
@@ -39,10 +39,10 @@ This game is licensed under the **Game Master License**, which covers all contri
 
 This section helps players and contributors navigate the resources found in this repository:
 
-- [**AARPG-Guide**](https://github.com/HyperSane/ARG/blob/main/ARG-Guide.md): The central guide to understanding the game’s mechanics, lore, and how to interact with the evolving content.
-- [**Reddit Cheat Sheet**](https://github.com/HyperSane/ARG/blob/main/Reddit.md): A comprehensive guide on how to use Reddit within the game world. Learn how to find hints, interact with game characters, and solve puzzles through community discussions.
-- [**Game Updates**](https://github.com/HyperSane/ARG/blob/main/Game-Updates.md): Track new game features, puzzle updates, and additions to the AARPG world.
-- [**Riddle 1**](https://github.com/HyperSane/ARG/blob/main/Riddle1.md): The first riddle of many, with clues hidden across different platforms.
+- [**AARPG-Guide**](https://github.com/HyperSane/ARG/blob/Main1/ARG-Guide.md): The central guide to understanding the game’s mechanics, lore, and how to interact with the evolving content.
+- [**Reddit Cheat Sheet**](https://github.com/HyperSane/ARG/blob/Main1/Reddit.md): A comprehensive guide on how to use Reddit within the game world. Learn how to find hints, interact with game characters, and solve puzzles through community discussions.
+- [**Game Updates**](https://github.com/HyperSane/ARG/blob/Main1/Game-Updates.md): Track new game features, puzzle updates, and additions to the AARPG world.
+- [**Riddle 1**](https://github.com/HyperSane/ARG/blob/Main1/Riddle1.md): The first riddle of many, with clues hidden across different platforms.
 
 ---
 
@@ -62,7 +62,7 @@ The **Reddit Cheat Sheet** is essential for navigating Reddit, a platform heavil
 
 This section will help you keep track of live game updates and new puzzle releases. Updates may include new characters, philosophical insights, or color-coded puzzle pieces that are integral to progressing in the game.
 
-[**Track Game Updates**](https://github.com/HyperSane/AARPG/blob/main/Game-Updates.md)
+[**Track Game Updates**](https://github.com/HyperSane/AARPG/blob/Main1/Game-Updates.md)
 
 ---
 
