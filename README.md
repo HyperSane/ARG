@@ -1,13 +1,15 @@
-# Contact: HyperSaneARG@protonmail.com
+# [FAQ](https://github.com/HyperSane/ARG/wiki/FAQ)
 
-# [Game-Documentation(GitBook)](https://hypersanity.gitbook.io/hypersanity/)
+### Contact: HyperSaneARG@protonmail.com
+
+### [Game-Documentation(GitBook)](https://hypersanity.gitbook.io/hypersanity/)
 
 #### https://github.com/HyperSane/ARG/discussions
 
 ---
-# [Game-Updates](https://github.com/HyperSane/ARG/blob/Main1/Game-Updates.md)
+## [Game-Updates](https://github.com/HyperSane/ARG/blob/Main1/Game-Updates.md)
 
-# Games Back-End DoMain1 Updates: https://github.com/HyperSane/ARG/blob/Main1/Game-Back-End.md
+### Games Back-End DoMain1 Updates: https://github.com/HyperSane/ARG/blob/Main1/Game-Back-End.md
 
 # Track Reddit Posts and 1:1 Archives in PDF format with OCR/Annotations https://github.com/HyperSane/ARG/wiki/Reddit-Archives
 ---
