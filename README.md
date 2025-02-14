@@ -1,4 +1,4 @@
-# [FAQ](https://github.com/HyperSane/ARG/wiki/FAQ)
+# [FAQ](https://github.com/HyperSane/ARG/wiki/FAQ) | [What's an ARG?](https://github.com/HyperSane/ARG/wiki/ARG-Lexicon-Symbols)
 
 ### Contact: HyperSaneARG@protonmail.com
 
