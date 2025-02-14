@@ -32,7 +32,7 @@ Welcome to the **ARG** (Advanced Augmented Role-Playing Game), a unique game ble
 
 ## LICENSE
 
-This game is licensed under the **Game Master License**, which covers all contributions, puzzles, and content related to AARPG. The license can be found here:  
+This game is licensed under the **Game Master License**, which covers all contributions, puzzles, and content related to ARG. The license can be found here:  
 [**View the License**](https://github.com/HyperSane/Game-Master-License/blob/Main1/LICENSE.md)
 
 ---
@@ -41,16 +41,16 @@ This game is licensed under the **Game Master License**, which covers all contri
 
 This section helps players and contributors navigate the resources found in this repository:
 
-- [**AARPG-Guide**](https://github.com/HyperSane/ARG/blob/Main1/ARG-Guide.md): The central guide to understanding the game’s mechanics, lore, and how to interact with the evolving content.
+- [**ARG-Guide**](https://github.com/HyperSane/ARG/blob/Main1/ARG-Guide.md): The central guide to understanding the game’s mechanics, lore, and how to interact with the evolving content.
 - [**Reddit Cheat Sheet**](https://github.com/HyperSane/ARG/blob/Main1/Reddit.md): A comprehensive guide on how to use Reddit within the game world. Learn how to find hints, interact with game characters, and solve puzzles through community discussions.
-- [**Game Updates**](https://github.com/HyperSane/ARG/blob/Main1/Game-Updates.md): Track new game features, puzzle updates, and additions to the AARPG world.
+- [**Game Updates**](https://github.com/HyperSane/ARG/blob/Main1/Game-Updates.md): Track new game features, puzzle updates, and additions to the ARG world.
 - [**Riddle 1**](https://github.com/HyperSane/ARG/blob/Main1/Riddle1.md): The first riddle of many, with clues hidden across different platforms.
 
 ---
 
 ## Reddit Cheat Sheet
 
-The **Reddit Cheat Sheet** is essential for navigating Reddit, a platform heavily integrated into the AARPG experience. You’ll need to post answers to riddles, interact with characters, and search for hidden clues across various subreddits.
+The **Reddit Cheat Sheet** is essential for navigating Reddit, a platform heavily integrated into the ARG experience. You’ll need to post answers to riddles, interact with characters, and search for hidden clues across various subreddits.
 
 - **The Purple Pill Study**: Understanding the symbolic use of purple in the game world. Learn about how **Purple** represents **Wisdom** and **Enlightenment**. This study is critical for grasping the game’s deeper philosophical roots.  
 [**Read more about the Purple Pill**](https://www.reddit.com/r/HyperSanity/comments/1exw9d8/the_purplepill/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
@@ -64,7 +64,7 @@ The **Reddit Cheat Sheet** is essential for navigating Reddit, a platform heavil
 
 This section will help you keep track of live game updates and new puzzle releases. Updates may include new characters, philosophical insights, or color-coded puzzle pieces that are integral to progressing in the game.
 
-[**Track Game Updates**](https://github.com/HyperSane/AARPG/blob/Main1/Game-Updates.md)
+[**Track Game Updates**](https://github.com/HyperSane/ARG/blob/Main1/Game-Updates.md)
 
 ---
 
@@ -72,7 +72,7 @@ This section will help you keep track of live game updates and new puzzle releas
 
 ### 🎨 The Color Lexicon of HyperSanity: Unlocking Hidden Meanings
 
-Color plays a vital role in **AARPG**, not only in guiding you through gameplay but also in unlocking deeper **philosophical meanings**. Below is a guide to help you understand the symbolism of each color used in the game:
+Color plays a vital role in **ARG**, not only in guiding you through gameplay but also in unlocking deeper **philosophical meanings**. Below is a guide to help you understand the symbolism of each color used in the game:
 
 - **Yellow - Truth 🌕**: Represents clarity and **illumination**. It forces you to confront reality and pierce through deception. The **Yellow Lane** is about seeking the truth behind the illusions you encounter.
   
@@ -86,9 +86,9 @@ Color plays a vital role in **AARPG**, not only in guiding you through gameplay 
 
 - **Green - Moral Integrity 🟢**: Signifies **harmony** and **ethical action**. Green represents acting in a way that benefits not only yourself but all life around you, aligning personal desires with the greater good.
 
-- **Pink - Creativity 🌸🌺**: Symbolizes **radical innovation** and **inclusive creativity**. Pink in AARPG encourages you to break free from traditional thinking and embrace new, unconventional ideas.
+- **Pink - Creativity 🌸🌺**: Symbolizes **radical innovation** and **inclusive creativity**. Pink in ARG encourages you to break free from traditional thinking and embrace new, unconventional ideas.
 
-Explore the **Color Lexicon** in-depth and learn how it influences gameplay and philosophy in AARPG.  
+Explore the **Color Lexicon** in-depth and learn how it influences gameplay and philosophy in ARG.  
 [**Color-Lexicon**](https://www.reddit.com/r/HyperSanity/comments/1f8yq18/wipdeadlock/)
 
 ---
@@ -97,9 +97,9 @@ Explore the **Color Lexicon** in-depth and learn how it influences gameplay and 
 
 ARG isn't just a game—it’s a **community of like-minded thinkers**, philosophers, and strategists. Connect with other players, share insights, and discuss game progression:
 
-- **[Join the GitHub Discussions](https://github.com/HyperSane/AARPG/discussions)**: Engage with other players in GitHub discussions. Share theories, ask questions, or discuss game strategies.
+- **[Join the GitHub Discussions](https://github.com/HyperSane/ARG/discussions)**: Engage with other players in GitHub discussions. Share theories, ask questions, or discuss game strategies.
   
-- **[Steam Community](https://steamcommunity.com/groups/Hyper-Sanity/discussions)**: A more casual platform for discussing AARPG-related content, character theories, and game progress.
+- **[Steam Community](https://steamcommunity.com/groups/Hyper-Sanity/discussions)**: A more casual platform for discussing ARG-related content, character theories, and game progress.
 
 ---
 
@@ -107,7 +107,7 @@ ARG isn't just a game—it’s a **community of like-minded thinkers**, philosop
 
 Do you have specific requests for game content, analyses, or puzzle ideas? Leave your requests in the **Discussions Section** on GitHub. Your feedback could influence future updates or riddles!
 
-[**Submit your request**](https://github.com/HyperSane/AARPG/discussions)
+[**Submit your request**](https://github.com/HyperSane/ARG/discussions)
 
 ---
 
@@ -129,6 +129,6 @@ Here are other key links that will help you engage with the game:
 
 ## Join the Journey
 
-Whether you're here for the **puzzles**, the **philosophy**, or the community, AARPG is an evolving game with many layers to uncover. Keep up with live updates, explore the color-coded symbolism, and connect with a growing community of players who share your passion for knowledge and strategy.
+Whether you're here for the **puzzles**, the **philosophy**, or the community, ARG is an evolving game with many layers to uncover. Keep up with live updates, explore the color-coded symbolism, and connect with a growing community of players who share your passion for knowledge and strategy.
 
 --- 
