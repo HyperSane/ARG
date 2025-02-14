@@ -20,10 +20,7 @@ Contact for requests/analysis of books or anything.
 
 
 # Books Index
-
-Here is the updated Table of Contents (TOC) under the # books index for all folders/files in the Free Books folder, including sub-folders:
-
-Here is the updated and more complete Table of Contents (TOC) under the # books index for all folders/files in the Free Books folder, including sub-folders and the files in the "All-Ages" sub-folder:
+Here's the current folder/file structure.
 
 ### Books Index
 - [Ethics](https://github.com/HyperSane/ARG/tree/Main1/Free%20Books/Ethics)
