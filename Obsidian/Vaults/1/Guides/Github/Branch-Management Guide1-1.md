@@ -8,47 +8,41 @@ Types:
 
 ---
 
-
-I apologize for that. Here is the properly formatted TOC with links tied to the correct headers:
-
----
-
 1. **[Git Branch Management Guide 1-1](#git-branch-management-guide-1-1)**
-    - **[Creating and Managing the `backup` Branch](#🌱-1-creating-and-managing-the-backup-branch)**
-        - **[Create the `backup` Branch from `main` (First-Time Setup)](#📌-create-the-backup-branch-from-main-first-time-setup)**
-        - **[Switching Between `main` and `backup`](#🔄-switching-between-main-and-backup)**
-    - **[Removing History from `backup` and Pushing a Fresh Copy](#🔥-2-removing-history-from-backup-and-pushing-a-fresh-copy)**
-        - **[Switch to `backup` First](#📌-switch-to-backup-first)**
-        - **[Remove Commit History (Keep Files)](#📌-remove-commit-history-keep-files)**
-    - **[Copy `main` to `backup` (Keeping History)](#🔄-3-copy-main-to-backup-keeping-history)**
-        - **[Switch to `backup`](#📌-switch-to-backup)**
-        - **[Merge `main` Into `backup`](#📌-merge-main-into-backup)**
-    - **[Pushing Changes to the Correct Branch](#🚀-4-pushing-changes-to-the-correct-branch)**
-    - **[Deleting a Branch (If Needed)](#🔄-5-deleting-a-branch-if-needed)**
-        - **[Delete a Local Branch](#📌-delete-a-local-branch)**
-        - **[Delete a Remote Branch](#📌-delete-a-remote-branch)**
-    - **[Final Tips](#🛠-final-tips)**
+    - **[Creating and Managing the `backup` Branch](#1-creating-and-managing-the-backup-branch)**
+        - **[Create the `backup` Branch from `main` (First-Time Setup)](#create-the-backup-branch-from-main-first-time-setup)**
+        - **[Switching Between `main` and `backup`](#switching-between-main-and-backup)**
+    - **[Removing History from `backup` and Pushing a Fresh Copy](#2-removing-history-from-backup-and-pushing-a-fresh-copy)**
+        - **[Switch to `backup` First](#switch-to-backup-first)**
+        - **[Remove Commit History (Keep Files)](#remove-commit-history-keep-files)**
+    - **[Copy `main` to `backup` (Keeping History)](#3-copy-main-to-backup-keeping-history)**
+        - **[Switch to `backup`](#switch-to-backup)**
+        - **[Merge `main` Into `backup`](#merge-main-into-backup)**
+    - **[Pushing Changes to the Correct Branch](#4-pushing-changes-to-the-correct-branch)**
+    - **[Deleting a Branch (If Needed)](#5-deleting-a-branch-if-needed)**
+        - **[Delete a Local Branch](#delete-a-local-branch)**
+        - **[Delete a Remote Branch](#delete-a-remote-branch)**
+    - **[Final Tips](#final-tips)**
 
 2. **[Git Branch Management Guide 1-2](#git-branch-management-guide-1-2)**
-    - **[Creating and Managing the `backup` Branch](#🌱-1-creating-and-managing-the-backup-branch-1)**
-        - **[Create the `backup` Branch from `main` (First-Time Setup)](#📌-create-the-backup-branch-from-main-first-time-setup-1)**
-        - **[Switching Between `main` and `backup`](#🔄-switching-between-main-and-backup-1)**
-    - **[Fastest Way to Reset `backup` to Match `main`](#🔥-2-fastest-way-to-reset-backup-to-match-main)**
-    - **[Copy `main` to `backup` While Keeping History](#🔄-3-copy-main-to-backup-while-keeping-history)**
-        - **[Merge `main` Into `backup`](#📌-merge-main-into-backup-1)**
-    - **[Pushing Changes to the Correct Branch](#🚀-4-pushing-changes-to-the-correct-branch-1)**
-    - **[Deleting a Branch (If Needed)](#🔄-5-deleting-a-branch-if-needed-1)**
-        - **[Delete a Local Branch](#📌-delete-a-local-branch-1)**
-        - **[Delete a Remote Branch](#📌-delete-a-remote-branch-1)**
-    - **[Final Tips](#🛠-final-tips-1)**
+    - **[Creating and Managing the `backup` Branch](#1-creating-and-managing-the-backup-branch-1)**
+        - **[Create the `backup` Branch from `main` (First-Time Setup)](#create-the-backup-branch-from-main-first-time-setup-1)**
+        - **[Switching Between `main` and `backup`](#switching-between-main-and-backup-1)**
+    - **[Fastest Way to Reset `backup` to Match `main`](#2-fastest-way-to-reset-backup-to-match-main)**
+    - **[Copy `main` to `backup` While Keeping History](#3-copy-main-to-backup-while-keeping-history)**
+        - **[Merge `main` Into `backup`](#merge-main-into-backup-1)**
+    - **[Pushing Changes to the Correct Branch](#4-pushing-changes-to-the-correct-branch-1)**
+    - **[Deleting a Branch (If Needed)](#5-deleting-a-branch-if-needed-1)**
+        - **[Delete a Local Branch](#delete-a-local-branch-1)**
+        - **[Delete a Remote Branch](#delete-a-remote-branch-1)**
+    - **[Final Tips](#final-tips-1)**
+
+
+
+
+
 
 ---
-
-You can use these links to navigate to the respective sections within the document.
-
-
-
-
 
 
 
