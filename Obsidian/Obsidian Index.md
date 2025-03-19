@@ -21,7 +21,7 @@ Also makes it easier for those just wanting to learn guides/tricks etc.
       - **Guides**
         - [Guides.md](https://github.com/HyperSane/ARG/blob/Main1/Obsidian/Vaults/1/Guides/Guides.md)
          - [**Github-DIR**](https://github.com/HyperSane/ARG/tree/Main1/Obsidian/Vaults/1/Guides/Github)
-           - [yrdf](https://github.com/HyperSane/ARG/blob/Main1/Obsidian/Vaults/1/Guides/Github/Branch-Management%20Guide1-1.md)
+           - [Branch-Management-Guide](https://github.com/HyperSane/ARG/blob/Main1/Obsidian/Vaults/1/Guides/Github/Branch-Management%20Guide1-1.md)
            - [ReadMe](https://github.com/HyperSane/ARG/blob/Main1/Obsidian/Vaults/1/Guides/Github/Github%20Readme.md)
            - [Public Sync Guide](https://github.com/HyperSane/ARG/blob/Main1/Obsidian/Vaults/1/Guides/Github/Public%20GITHUB%20Sync%20Guide%201.md)
            - [Pushing New Repos](https://github.com/HyperSane/ARG/blob/Main1/Obsidian/Vaults/1/Guides/Github/Pushing%20New1.md)
