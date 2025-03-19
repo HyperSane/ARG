@@ -65,7 +65,7 @@ Follow these steps exactly to ensure that your local files are pushed to an **em
 ---
 
 ### **Step 6: Verify the Push**
-1. Go to your GitHub repository in your browser: [https://github.com/HyperSane/OBSIDIAN](https://github.com/User/RepoName.git).
+1. Go to your GitHub repository in your browser: [https://github.com/USER/REPO](https://github.com/User/RepoName.git).
 2. Refresh the page and verify that your files have been uploaded.
 
 ---
