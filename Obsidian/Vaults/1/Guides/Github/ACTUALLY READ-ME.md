@@ -1,7 +1,7 @@
 # The difference between this repo and [public-obsidian](https://github.com/HyperSane/Public-Obsidian) -
  Is obsidian-friendly files that help with the ARG (and every other ARG), and if anyone ever learns how to
  scan a QR code and google how to install the steganogagraphy listed in the gist from QR, and solves the riddle:
- the ARG storyline won't start; and that is a shame for I have so many original ideas I'm been tracking with archetypes.
+ the ARG storyline won't start; and that is a shame for I have so many original ideas I've been tracking with archetypes.
 
  As the ARG progress, it gets harder, teaching more advanced applications, and better video tutorials.
 
