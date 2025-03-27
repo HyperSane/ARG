@@ -23,6 +23,14 @@ Or just embed into canvas via URL, you can turn each specific sections(s) to car
 
 https://raindrop.io/HyperSane/game-start-folders-below-47328679
 
+
+# Preview
+
+
+ - ![sVLpMlBEQY](https://github.com/user-attachments/assets/2ee7eb6b-684b-4087-82d7-343dc18b38a5)
+
+
+
 # Step 1
 
 ## Can go to https://raindrop.io/HyperSane/ to see all my public Drops, and then find what you want to embed
