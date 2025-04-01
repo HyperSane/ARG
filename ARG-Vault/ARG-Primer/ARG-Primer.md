@@ -6,3 +6,5 @@ This is where I started my research into the Demiurge and Gnosticism, the PRE-AR
 Use a lot of plugins, as I do.
 
 You will make all sorts of awesome connections you could never see before..
+
+It's unlocked using the answer to riddle 2, once riddle 2 is shared by someone, I will make it public for all players.
